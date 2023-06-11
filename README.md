@@ -58,6 +58,11 @@
  + UC13: ![image](https://github.com/chaukydang/Bussiness_Analyst/assets/94186949/558e4bb0-4ef8-4723-babf-5ac8980f8509)
 
  + UC14: ![image](https://github.com/chaukydang/Bussiness_Analyst/assets/94186949/b0eb2191-52c2-4acd-91c7-e836739135de)
+- Sequence diagram:
+ + ![image](https://github.com/chaukydang/Bussiness_Analyst/assets/94186949/614ad9c4-8658-49fe-b89a-3d479d809739)
+- Class diagram:
+ + ![image](https://github.com/chaukydang/Bussiness_Analyst/assets/94186949/a4c7b337-d67d-419b-81bc-cf9ff0a079c0)
+
 
 
     
